@@ -1,0 +1,2 @@
+
+Point * LoadPoints(char * file);
