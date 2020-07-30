@@ -5,6 +5,9 @@
 
 int main(int argc, char **argv)
 {
+    /**
+     * This is where it all began
+     */
     Point *points = LoadPoints("test.data");
     if (!points)
     {
